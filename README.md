@@ -10,3 +10,6 @@ This repository is made to get the github raw link for the themes that are perso
 
 | solana.theme.css - Solana
 | https://github.com/maenDisease/BetterDiscordStuff
+
+| MinimalCord.theme.css - MinimalCord
+| https://github.com/DiscordStyles/MinimalCord
