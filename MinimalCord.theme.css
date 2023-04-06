@@ -18,9 +18,9 @@
         to get your desired RGB numbers. Then simply put each number in their respective area.
         R,G,B
     */
-  --accent: 50, 131, 207;
+  --accent: 68, 159, 217;
 
-  --message-padding: 10px; /* Spacing in the messages. MUST END IN px | DEFAULT: 10px */
+  --message-padding: 5px; /* Spacing in the messages. MUST END IN px | DEFAULT: 10px */
   --message-spacing: 10px; /* Spacing around the messages. MUST END IN px | DEFAULT: 10px */
 
   /*
