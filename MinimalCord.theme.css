@@ -9,7 +9,7 @@
 */
 
 /* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap"); */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,300&display=swap");
 @import url("https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css");
 
 :root {
@@ -29,5 +29,5 @@
         Now just follow this tutorial: https://imgur.com/a/CNbw7xC  
     */
   /* --font: "Inter"; */
-  --font: "Poppins";
+  --font: "Rubik";
 }
