@@ -20,8 +20,8 @@
     */
   --accent: 68, 159, 217;
 
-  --message-padding: 5px; /* Spacing in the messages. MUST END IN px | DEFAULT: 10px */
-  --message-spacing: 10px; /* Spacing around the messages. MUST END IN px | DEFAULT: 10px */
+  --message-padding: 10px; /* Spacing in the messages. MUST END IN px | DEFAULT: 10px */
+  --message-spacing: 20px; /* Spacing around the messages. MUST END IN px | DEFAULT: 10px */
 
   /*
         To use a custom font. Visit https://fonts.google.com and select one to your liking.
