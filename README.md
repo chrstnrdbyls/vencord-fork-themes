@@ -16,3 +16,6 @@ This repository is made to get the github raw link for the themes that are perso
 
 | modern-indicators.theme.css - Modern Indicators
 | https://github.com/discord-extensions/modern-indicators
+
+| RadialStatus.theme.css - Radial Status
+| https://betterdiscord.app/theme/RadialStatus
