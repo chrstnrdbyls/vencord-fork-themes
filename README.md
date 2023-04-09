@@ -13,3 +13,6 @@ This repository is made to get the github raw link for the themes that are perso
 
 | MinimalCord.theme.css - MinimalCord
 | https://github.com/DiscordStyles/MinimalCord
+
+| modern-indicators.theme.css - Modern Indicators
+| https://github.com/discord-extensions/modern-indicators
